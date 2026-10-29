@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信群记录总结"
+  short_description: "读取本机微信指定群记录，由当前会话总结并生成离线网页和 PNG 长图"
+  default_prompt: "使用 $wechat-group-digest 总结指定微信群最近 24 小时的本地记录，并生成网页版和 PNG 报告。"

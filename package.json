@@ -1,0 +1,8 @@
+{
+  "name": "wechat-group-digest",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Offline renderer for a local WeChat group digest skill",
+  "license": "MIT",
+  "dependencies": {"playwright": "1.62.1"}
+}
